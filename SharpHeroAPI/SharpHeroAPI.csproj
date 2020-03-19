@@ -10,12 +10,17 @@
     <RepositoryUrl>https://github.com/crxssed7/SharpHeroAPI</RepositoryUrl>
     <PackageIcon>SuperHeroAPI.png</PackageIcon>
     <PackageIconUrl />
-    <PackageTags>c#, library, superhero, comic, comic book, characters, fiction</PackageTags>
+    <PackageTags>c#, library, superhero, comic, comic book, characters, fiction, .net, net, superheroapi</PackageTags>
     <NeutralLanguage>en-GB</NeutralLanguage>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
 
   <ItemGroup>
     <None Include="..\..\..\..\..\..\Downloads\SuperHeroAPI.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="..\LICENSE">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
