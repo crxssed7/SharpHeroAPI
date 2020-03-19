@@ -49,6 +49,7 @@ namespace SharpHeroAPI
                 return hero.results;
             }
         }
+        //change
 
         /// <summary>
         /// Returns the character assigned to the input ID.
