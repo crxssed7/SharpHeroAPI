@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>A C# library that allows you to access all the superheroes and villains on the SuperHero database using there REST API.</Description>
+    <Authors>crxssed7</Authors>
+    <Copyright>Copyright © 2020 crxssed7</Copyright>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
