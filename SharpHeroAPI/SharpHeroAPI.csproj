@@ -6,6 +6,7 @@
     <Authors>crxssed7</Authors>
     <Copyright>Copyright © 2020 crxssed7</Copyright>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/crxssed7/SharpHeroAPI</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
